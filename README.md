@@ -1,2 +1,2 @@
 # Oil-price-Dashboard
-AI-powered Global Oil Price Dashboard (Feb 2026 to Present) with KPI cards, country filters, interactive visuals, and profit/loss insights. Built in HTML, JavaScript, and Excel-based data modeling.
+Interactive oil price dashboard covering Feb 2026 to present with executive KPIs, pricing trends, country analysis, dealer view, and advanced filters. Built for client-ready presentation and browser-based deployment.
